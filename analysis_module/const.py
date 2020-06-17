@@ -1,6 +1,6 @@
-PATH_FILE = 'https://raw.githubusercontent.com/caioccc/backendirct/master/analysis_module/data/sample_intel.csv'
+PATH_FILE = '../server/analysis_module/data/sample_intel.csv'
 PATH_KMEANS = '../server/analysis_module/data/kmeans_result/'
-PATH_METHODS_STATUS = 'https://raw.githubusercontent.com/caioccc/backendirct/master/analysis_module/data/risks.csv'
+PATH_METHODS_STATUS = '../server/analysis_module/data/risks.csv'
 
 REMOVE_YEAR = 2007
 DATE_COL = 'ENTDATE'

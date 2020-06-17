@@ -30,7 +30,10 @@ def get_all_params(request):
     Returns:
     dict:A request.
     """
-    params = request.GET.dict()
+    if request.GET:
+        params = request.GET.dict()
+    else:
+        params = request.POST.dict()
     return params
 
 

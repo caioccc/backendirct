@@ -1,0 +1,8 @@
+name_type,favorite,category,name,status
+Error,True,Configurable Rules,,
+Alert,True,Configurable Rules,Invoice amount variation,True
+Alert,True,Configurable Rules,Services with Negative Amount,True
+Alert,True,Configurable Rules,Zero Service,True
+P.E.P,True,Configurable Rules,,
+Unusual Cases,False,Smart Rules,Unusual service combination,True
+Unusual Cases,False,Smart Rules,Unusual amount,True

@@ -6,7 +6,7 @@ flask
 wheel
 sklearn
 flask_cors
-Django==2.2.7
+Django==2.2.22
 django-cors-headers
 whitenoise==2.0.6
 dj-database-url
